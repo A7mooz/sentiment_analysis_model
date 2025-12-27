@@ -1,0 +1,18 @@
+# API
+joblib
+fastapi
+pydantic
+uvicorn
+
+# Prep
+dotenv
+kaggle
+
+# Preprocessing
+nltk
+ftfy
+
+# Training
+pandas
+scikit-learn
+joblib
